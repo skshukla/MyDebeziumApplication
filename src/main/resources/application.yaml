@@ -1,0 +1,5 @@
+
+topics:
+  user: my-topics2.public.user_tbl
+  user-address: my-topics2.public.user_address_tbl
+
